@@ -1,0 +1,9 @@
+<resources>
+    <!-- *************** -->
+    <!-- HomeScreen -->
+    <!-- *************** -->
+    <string name="home_app_bar_title">Rates</string>
+    <string name="home_app_bar_search_description">Search</string>
+    <string name="home_screen_error_message">There was an error. We are terribly sorry.</string>
+    <string name="home_screen_retry">Retry</string>
+</resources>
